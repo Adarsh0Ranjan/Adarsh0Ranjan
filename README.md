@@ -27,4 +27,4 @@ I am committed to staying abreast of the latest industry trends, best practices,
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/Adarsh0Ranjan/)
-- [Twitter](https://twitter.com/Adarsh0Ranjan)
+- [Leetcode](https://leetcode.com/u/Adarsh0Ranjan/)
