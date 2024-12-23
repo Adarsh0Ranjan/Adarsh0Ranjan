@@ -15,8 +15,8 @@ With a strong focus on innovation, I leverage AI tools like GitHub Copilot and C
 - **Debugging**: Strong debugging skills, with a focus on improving application performance.
 
 ## Key Achievements
-- **Professional Experience**: 2-4 years of professional experience with a reputed startup known for its engineering prowess or experience on a 0-1 product in a big tech company.
-- **SwiftUI Proficiency**: Exceptional proficiency in SwiftUI with a desire to learn Kotlin/Android.
+- **Professional Experience**: 3+ years of professional experience with a reputed startup known for its engineering prowess or experience on a 0-1 product in a startup.
+- **SwiftUI Proficiency**: Exceptional proficiency in SwiftUI with a desire to learn Kotlin Multiplatform.
 - **Problem-Solving**: Solid problem-solving skills and understanding of data structures and algorithms (DSA).
 - **Security Best Practices**: Understanding of security best practices in front-end development.
 - **UI/UX Design**: Solid understanding of UI/UX design principles.
@@ -27,4 +27,4 @@ I am committed to staying abreast of the latest industry trends, best practices,
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/Adarsh0Ranjan/)
-- [Leetcode](https://leetcode.com/u/Adarsh0Ranjan/)
+- [LeetCode](https://leetcode.com/u/Adarsh0Ranjan/)
